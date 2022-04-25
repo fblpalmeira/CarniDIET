@@ -10,7 +10,7 @@ We quantified the activity pattern and temporal overlap among the apex predator 
 
 - [Database 2 `.csv`]()
 
-<img src="">
+<img src="https://github.com/fblpalmeira/CarniDIET/blob/main/data/felids_diet2.png">
 
 Reference:
 
