@@ -2,7 +2,7 @@
 
 # Day 23 (23 April 2022) | Tiles
 
-[(Middleton et al 2021).](https://doi.org/10.1111/geb.13296) 
+Visualizing a Neotropical food web compiling data from CarniDIET (version 1.0), an open-access database containing quantitative data on the diets of terrestrial mammal-consumers collated from the literature [(Middleton et al 2021).](https://doi.org/10.1111/geb.13296) 
 
 - [Script `.R`](https://github.com/fblpalmeira/CarniDIET/blob/main/data/30daychallenge_day23.R)
 
