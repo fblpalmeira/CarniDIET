@@ -8,7 +8,7 @@ We quantified the activity pattern and temporal overlap among the apex predator 
 
 - [Database 1 `.csv`]()
 
-- [Database 2 `.csv`]()
+- [Database 2 `.csv`](https://github.com/fblpalmeira/CarniDIET/blob/main/data/geb13296-sup-0011-carnidiet2.csv)
 
 <img src="https://github.com/fblpalmeira/CarniDIET/blob/main/data/felids_diet2.png">
 
